@@ -1,0 +1,9 @@
+.ButtonGroup {
+	text-align: center;
+	margin: auto;
+}
+
+.ButtonGroup .btn {
+	margin: 4px;
+	width: 80px;
+}

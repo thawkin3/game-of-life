@@ -1,0 +1,7 @@
+.GameBoard {
+	margin: 20px auto;
+	width: 600px;
+	overflow: hidden;
+	font-size: 0px;
+	line-height: 0px;
+}
