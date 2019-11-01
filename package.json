@@ -2,7 +2,7 @@
   "name": "game-of-life",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ec2-54-200-192-157.us-west-2.compute.amazonaws.com/gameOfLife/",
+  "homepage": "http://tylerhawkins.info/gameOfLife/",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^16.1.1",

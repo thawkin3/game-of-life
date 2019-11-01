@@ -226,7 +226,7 @@ class App extends Component {
             <div className="col-md-12">
               <footer className="App-footer">
                 <p>Created by Tyler Hawkins</p>
-                <p>Check out the rest of my portfolio <a href="http://ec2-54-200-192-157.us-west-2.compute.amazonaws.com/201R/">here</a></p>
+                <p>Check out the rest of my portfolio <a href="http://tylerhawkins.info">here</a></p>
               </footer>
             </div>
           </div>
